@@ -11,7 +11,7 @@ done
 #Alternate syntax
 
 echo "Alternate for Loop"
-for j in rajesh suresh saba
+for j in rajesh suresh sabaChashmish
 do
     echo "Name is $j"
 done
